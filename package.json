@@ -1,0 +1,22 @@
+{
+  "name": "os-automation",
+  "version": "1.0.0",
+  "description": "Operating System automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immahesh1/OS-Automation.git"
+  },
+  "author": "Mahesh Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immahesh1/OS-Automation/issues"
+  },
+  "homepage": "https://github.com/immahesh1/OS-Automation#readme",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
+}
